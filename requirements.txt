@@ -1,0 +1,6 @@
+Python
+Pandas
+SQLAlchemy
+PostgreSQL
+API ingestion
+GitHub
